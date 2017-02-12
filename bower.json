@@ -1,0 +1,21 @@
+{
+  "name": "Angular-cake-website",
+  "description": "New website/web applications for Cake Website",
+  "main": "",
+  "authors": [
+    "Angelo510"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+   
+  ],
+  "dependencies": {
+    
+  },
+  "resolutions": {
+    
+  },
+  
+  }
+}
