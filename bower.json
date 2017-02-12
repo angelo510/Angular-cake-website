@@ -20,6 +20,7 @@
   "resolutions": {
     
   },
-  
+  "devDependencies": {
+    "angular-mocks": "1.5.5"
   }
 }
